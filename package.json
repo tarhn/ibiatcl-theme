@@ -1,5 +1,5 @@
 {
-    "name": "theme-ibeliveinathingcalledlove",
+    "name": "theme-ibiatcl",
     "displayName": "I Belive In A Thing Called Love",
     "description": "The Darkness a theme for Visual Studio Code",
     "version": "1.0.0",
@@ -14,8 +14,12 @@
             {
                 "label": "I Belive In A Thing Called Love",
                 "uiTheme": "vs-dark",
-                "path": "./themes/I-Belive-In-A-Thing-Called-Love-color-theme.json"
+                "path": "./themes/ibiatcl-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tarhn/ibiatcl-theme.git"
     }
 }
