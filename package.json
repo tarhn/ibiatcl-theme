@@ -1,0 +1,21 @@
+{
+    "name": "theme-ibeliveinathingcalledlove",
+    "displayName": "I Belive In A Thing Called Love",
+    "description": "The Darkness a theme for Visual Studio Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "I Belive In A Thing Called Love",
+                "uiTheme": "vs-dark",
+                "path": "./themes/I-Belive-In-A-Thing-Called-Love-color-theme.json"
+            }
+        ]
+    }
+}
