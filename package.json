@@ -2,10 +2,20 @@
     "name": "theme-ibiatcl",
     "displayName": "I Belive In A Thing Called Love",
     "description": "The Darkness a theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "publisher": "Tarhn",
     "engines": {
         "vscode": "*"
     },
+    "keywords": [
+        "Contrast",
+        "Pop",
+        "Clear",
+        "Dark",
+        "Dark Theme",
+        "The Darkness",
+        "The Darkest"
+    ],
     "categories": [
         "Themes"
     ],
