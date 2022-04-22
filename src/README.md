@@ -1,3 +1,3 @@
 # README
 A nice dark theme for VSCode
-![](./All.PNG)
+![](./Images/All.PNG)
