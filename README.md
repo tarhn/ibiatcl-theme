@@ -1,6 +1,7 @@
 # README
-A nice dark theme for VSCode
-![](./Images/All.PNG)
+A nice dark theme for VSCode.
+
+There is also a version for [Visual Studio 2022!](https://marketplace.visualstudio.com/items?itemName=Tarhn.ibiatcl2022)
 
 JavaScript:
 ![](./Images/JavaScript.PNG)
@@ -8,23 +9,6 @@ JavaScript:
 Python:
 ![](./Images/Python.PNG)
 
-HTML:
-![](./Images/HTML.PNG)
-
-Css:
-![](./Images/Css.PNG)
-
-Java:
-![](./Images/Java.PNG)
-
-SQL:
-![](./Images/SQL.PNG)
-
 C#:
 ![](./Images/Cs.PNG)
 
-Rust:
-![](./Images/Rust.PNG)
-
-Perl:
-![](./Images/Perl.PNG)
