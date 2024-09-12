@@ -1,4 +1,5 @@
-""" Python Comment """
+# Python Comment
+
 def helloWorld () :
     firstWord = "Hello"
     secondWord = "world"
