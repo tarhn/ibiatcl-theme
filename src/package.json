@@ -3,7 +3,7 @@
     "displayName": "I Believe In A Thing Called Love",
     "description": "The Darkness a theme for Visual Studio Code",
     "icon": "icon.jpg",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "publisher": "Tarhn",
     "engines": {
         "vscode": "*"
